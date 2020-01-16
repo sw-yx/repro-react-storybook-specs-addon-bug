@@ -1,9 +1,8 @@
-# Storybook Docs w/ CRA & TypeScript
+# this is a bug with react storybook specs addon
 
-this is a live demo of https://gist.github.com/shilman/bc9cbedb2a7efb5ec6710337cbd20c0c
+https://repro-react-storybook-specs-addon-bug.netlify.com/
 
-follow the steps there
+i spent way too much time trying to replicate this problem in a standalone repo and i think i have a handle on it, but i cant get this error out of the way:
 
-the live site is at https://storybook-cra-ts-test-repo.netlify.com
+![image](https://user-images.githubusercontent.com/6764957/72539346-2a356100-384d-11ea-96cc-a1f37ca49f37.png)
 
-deploy previews https://app.netlify.com/sites/storybook-cra-ts-test-repo/deploys
